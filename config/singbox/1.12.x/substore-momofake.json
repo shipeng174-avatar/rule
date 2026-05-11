@@ -37,7 +37,7 @@
     {"tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
     {"tag": "🐸 手动选择", "type": "selector", "outbounds": []},
     {"tag": "♻️ 自动选择", "type": "urltest", "outbounds": []},
-    {"tag": "🍃 延迟辅助", "type": "urltest", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
+    {"tag": "🍃 延迟辅助", "type": "urltest", "outbounds": ["🐸 手动选择", "🎯 全球直连"]},
     {"tag": "GLOBAL", "type": "selector", "outbounds": [
       "🚀 默认代理", "🧠 AI", "📹 YouTube", "🍀 Google", "👨‍💻 Github",
       "📲 Telegram", "🎵 TikTok", "🎥 Netflix", "💶 PayPal", "🎮 Steam",
